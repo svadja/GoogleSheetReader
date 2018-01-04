@@ -1,0 +1,5 @@
+security:
+  google:
+    #https://console.developers.google.com/iam-admin/serviceaccounts
+    googleDataStore: ${user.home}/google_data_store/
+    clientSecret: /google_data_store/client_secret.json
